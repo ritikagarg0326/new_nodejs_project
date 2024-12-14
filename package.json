@@ -1,0 +1,21 @@
+{
+  "name": "newproject_dec",
+  "version": "1.0.0",
+  "description": "Technologies Used\r TMDB API: Provides movie data and information.\r ExpressJS: Backend framework for handling API requests and routes.\r Firebase: Authentication and database management.\r React: Frontend library for building user interfaces.\r Features\r Browse popular movies, upcoming releases, and top-rated films.\r Search for specific movies and view detailed information.\r User authentication and signup functionality using Firebase.\r Allow users to create a watchlist and manage their favorite movies.\r Customized user experience with personalized movie recommendations.\r Installation\r Clone the repository: git clone https://github.com/duplixx/Netflix_FullStack/\r Install backend dependencies: cd backend && npm install\r Install frontend dependencies: cd frontend && npm install\r Configuration\r Rename .env.example to .env and add your TMDB API key.\r Set up your Firebase project and add Firebase credentials to .env.\r Usage\r Start the backend server: cd backend && npm start\r Start the frontend server: cd frontend && npm start\r Access the web app at http://localhost:3000.\r Contributing\r Contributions are welcome! Please fork the repository and create a pull request.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
