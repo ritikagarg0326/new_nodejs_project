@@ -4,13 +4,13 @@ Description
 
 This is a fully functional real-time chat application that allows users to communicate via:
 
-Real-time messaging.
+1.Real-time messaging.
 
-Multiple chat rooms.
+2.Multiple chat rooms.
 
-Private messaging between users.
+3.Private messaging between users.
 
-Notifications for new messages.
+4.Notifications for new messages.
 
 The project includes user authentication, responsive UI, and deployment on AWS for scalability and accessibility.
 
