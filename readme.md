@@ -18,7 +18,7 @@ The project includes user authentication, responsive UI, and deployment on AWS f
 
 Backend:
 
-1/Node.js with Express for server-side logic.
+1.Node.js with Express for server-side logic.
 
 2.Socket.io for real-time communication.
 
@@ -46,13 +46,12 @@ Features
 
 Notifications: Alerts for new messages.
 Setup Instructions
+Prerequisites
 
-1. Prerequisites
+1.Node.js (v16 or later)
 
-Node.js (v16 or later)
+2.Angular CLI (v14 or later)
 
-Angular CLI (v14 or later)
+3.MySQL Database
 
-MySQL Database
-
-AWS Account (for deployment)
+4.AWS Account (for deployment)
