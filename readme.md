@@ -14,15 +14,15 @@ This is a fully functional real-time chat application that allows users to commu
 
 The project includes user authentication, responsive UI, and deployment on AWS for scalability and accessibility.
 
-Technologies Used
+# Technologies Used
 
 Backend:
 
-Node.js with Express for server-side logic.
+1/Node.js with Express for server-side logic.
 
-Socket.io for real-time communication.
+2.Socket.io for real-time communication.
 
-MySQL for database management.
+3.MySQL for database management.
 
 Frontend:
 
@@ -30,19 +30,19 @@ Angular for building a responsive user interface.
 
 Deployment:
 
-AWS EC2 for backend hosting.
+1.AWS EC2 for backend hosting.
 
-AWS S3 for serving the frontend.
+2.AWS S3 for serving the frontend.
 
 Features
 
-Real-Time Messaging: Instant communication using Socket.io.
+1.Real-Time Messaging: Instant communication using Socket.io.
 
-User Authentication: Login and signup with secure password storage.
+2.User Authentication: Login and signup with secure password storage.
 
-Multiple Chat Rooms: Users can join or create chat rooms.
+3.Multiple Chat Rooms: Users can join or create chat rooms.
 
-Private Messaging: Direct communication between users.
+4.Private Messaging: Direct communication between users.
 
 Notifications: Alerts for new messages.
 Setup Instructions
